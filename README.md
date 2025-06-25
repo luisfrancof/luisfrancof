@@ -66,7 +66,7 @@
 
 <p align="left">
   <a href="https://info.flagcounter.com/xyz">
-    <img src="https://s01.flagcounter.com/count2/xyz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_1/percent_0/" alt="Contador de Banderas" border="0">
+    <img src="<a href="https://info.flagcounter.com/3KTk"><img src="https://s01.flagcounter.com/count2/3KTk/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_52/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
   </a>
 </p>
 
