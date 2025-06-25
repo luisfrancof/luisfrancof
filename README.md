@@ -58,3 +58,16 @@
 
 ---
 
+### 👁️ Visitantes:
+
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TU_USUARIO.TU_USUARIO&style=flat-square" alt="Contador de visitas" />
+</p>
+
+<p align="left">
+  <a href="https://info.flagcounter.com/xyz">
+    <img src="https://s01.flagcounter.com/count2/xyz/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_1/pageviews_1/flags_1/percent_0/" alt="Contador de Banderas" border="0">
+  </a>
+</p>
+
+
