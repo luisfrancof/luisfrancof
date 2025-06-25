@@ -27,7 +27,7 @@
   <a href="https://www.instagram.com/tu_usuario/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:luis.f.francof@gmail.com">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
@@ -55,4 +55,5 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisFranco&theme=radical" alt="GitHub Streak" />
 </p>
+---
 
