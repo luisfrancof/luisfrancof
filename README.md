@@ -1,9 +1,10 @@
-<h1 align="center">Hello👋, soy Luis F. Franco</h1>
+<h1 align="center">Hello👋, i Luis F. Franco</h1>
 <h3 align="center">Developer passionate about clean code and good practices</h3>
 
 ---
 
 🌱 Currently learning:
+
 -DevOps and automation ⚙️
 
 🧠I excel in:
