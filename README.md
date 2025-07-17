@@ -1,17 +1,17 @@
-<h1 align="center">Hola 👋, soy Luis F. Franco</h1>
-<h3 align="center">Desarrollador apasionado por el código limpio y las buenas prácticas</h3>
+<h1 align="center">Hello👋, soy Luis F. Franco</h1>
+<h3 align="center">Developer passionate about clean code and good practices</h3>
 
 ---
 
-🌱 Actualmente aprendiendo:
-- DevOps y automatización ⚙️
+🌱 Currently learning:
+-DevOps and automation ⚙️
 
-🧠 Me destaco en:
+🧠I excel in:
 - Git & GitHub
 
 ---
 
-📫 Cómo contactarme:
+📫 How to contact me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tu-usuario" target="_blank">
@@ -30,7 +30,7 @@
 
 ---
 
-⚒️ Lenguajes y herramientas:
+⚒️ Languages and tools:
 
 <p align="left">
 
@@ -39,8 +39,7 @@
 </p>
 
 ---
-
-📊 Estadísticas de GitHub:
+ GitHub Statistics:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=LuisFranco&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -51,7 +50,7 @@
 
 ---
 
-### 👁️ Visitantes:
+### 👁️ Visitors:
 
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TU_USUARIO.TU_USUARIO&style=flat-square" alt="Contador de visitas" />
